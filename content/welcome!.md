@@ -1,5 +1,7 @@
 ---
-title: Welcome to Quartz
+title: welcome!
+tags:
+  - general
 ---
 
 This is a blank Quartz installation.

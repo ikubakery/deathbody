@@ -4,4 +4,4 @@ tags:
   - creativity
   - art
 ---
- Dumping doodles that i like, no full art
+ Dumping doodles that i like

@@ -9,7 +9,7 @@ tags:
 > 
 > The voicebanks and programs here listed are not suitable for anyone under 18+, proceed with caution.
 
- List of all StudioS voicebanks + UTAU ports
+ List of all StudioS's voicebanks + UTAU ports
 
 <h2>Akume Iku</h2>
 <b>MAIDLOID software</b>

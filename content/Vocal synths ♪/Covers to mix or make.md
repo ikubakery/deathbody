@@ -8,6 +8,7 @@ tags:
  <b>Covers to make</b>
  <ul>
 <li> Nightmaid (Gekiyaku) </li>
+<li> A special cover for Iku 18th anniversary (maybe Kokoro)</li>
 </ul>
 <br>
 <b>Covers to finish</b>

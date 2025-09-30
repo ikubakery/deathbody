@@ -5,7 +5,7 @@ tags:
   - archive
 ---
 
-> [!Warning]
+> [!danger] Warning
 > 
 > The voicebanks and programs here listed are not suitable for anyone under 18+, proceed with caution.
 

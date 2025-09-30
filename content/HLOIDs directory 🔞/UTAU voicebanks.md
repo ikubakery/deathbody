@@ -4,9 +4,10 @@ tags:
   - vocal-synths
   - archive
 ---
-> [!Warning]
+> [!danger] Warning
 > 
 > The voicebanks here listed are not suitable for anyone under 18+, proceed with caution.
+> <br>
 > <b>You need to redo the OTO of all voicebanks if you want decent results.</b>
 
 List of all the HLOID voicebanks, made for UTAU, that i found.

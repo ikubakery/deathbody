@@ -3,4 +3,4 @@ title: Wishlist ✮
 tags:
   - irl
 ---
-wip
+air fryer my beloved... <3

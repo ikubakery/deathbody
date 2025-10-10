@@ -9,6 +9,7 @@ tags:
  <ul>
 <li> Nightmaid (Gekiyaku) </li>
 <li> A special cover for Iku 18th anniversary (maybe Kokoro)</li>
+<li> Do a cover with my UTAU now that it's almost done</li>
 </ul>
 <br>
 <b>Covers to finish</b>

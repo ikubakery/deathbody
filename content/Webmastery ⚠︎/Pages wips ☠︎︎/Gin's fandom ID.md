@@ -25,6 +25,10 @@ Quindi, ho preso la decisione di riscriverlo, stavolta in italiano: lo tradurrò
 <h3>... Aka, Gin's preferences for fan content</h3>
 Cw: NSFW content, ma sono nascosti dagli spoiler
 <br>
-Questa lunghissima pagina presenta lunghi testi indecifrabili e sproloqui sulle cose che mi piacciono.
+Questa lunghissima pagina presenta lunghi testi indecifrabili e sproloqui sulle cose che mi piacciono, siete state avvertiti.
 <hr>
 <h3>Ma prima, un po' di storia...</h3>
+<b>Sono sempre stato un lurker fin dalla notte dei tempi</b>: il mio carattere timido e solitario mi impedisce di interagire più nel profondo con i fandom, limitandomi a mettere dei semplici like e retweet/reblogs alle cose che mi piacciono.
+<br>
+<br>
+Il mio primo fandom vero è propio fu FNAF, entrai nella community nel lontano 2014/2015, prima che uscisse FNAF 4: ai tempi ero molto fan delle creepypasta, non ero nel fandom, anche perché avevo tipo... 11 anni e non sapevo che esistesse qualcosa del genere.

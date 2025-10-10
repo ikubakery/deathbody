@@ -10,3 +10,8 @@ tags:
 <li>Don't force yourself, if you're not hungry don't eat</li>
 <li>Consume less soda and sweets</li>
 </ul>
+
+<ul><b>Misc:</b>
+<li> Find a new job </li>
+</ul>
+

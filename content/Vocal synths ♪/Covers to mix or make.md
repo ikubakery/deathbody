@@ -4,6 +4,7 @@ tags:
   - vocal-synths
   - things-to-do
   - creativity
+  - music
 ---
  <b>Covers to make</b>
  <ul>

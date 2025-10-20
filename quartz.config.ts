@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "deathbody ♱",
+    pageTitle: "deathbody 🪻",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -30,14 +30,14 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#F2E9E4",
-          lightgray: "#FFC1AA",
-          gray: "#FFB4A2",
-          darkgray: "#F2A69F",
-          dark: "#E5989B",
-          secondary: "#B5838D",
-          tertiary: "#917681",
-          highlight: "#6D6875",
-          textHighlight: "#CD8E94",
+          lightgray: "#DECBC6",
+          gray: "#4A4E69",
+          darkgray: "#363852",
+          dark: "#22223B",
+          secondary: "#B29DA0",
+          tertiary: "#9A8C98",
+          highlight: "#726D81",
+          textHighlight: "#C9ADA7",
         },
         darkMode: {
           light: "#22223B",

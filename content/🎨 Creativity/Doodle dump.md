@@ -1,5 +1,5 @@
 ---
-title: Doodle dump ✮
+title: Doodle dump
 tags:
   - creativity
   - art

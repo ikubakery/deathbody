@@ -1,5 +1,5 @@
 ---
-title: Wishlist ✮
+title: Wishlist
 tags:
   - irl
 ---

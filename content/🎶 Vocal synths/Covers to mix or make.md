@@ -1,5 +1,5 @@
 ---
-title: Covers to mix or make ✮
+title: Covers to mix or make
 tags:
   - vocal-synths
   - things-to-do

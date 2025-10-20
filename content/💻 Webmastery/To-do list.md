@@ -1,5 +1,5 @@
 ---
-title: To-do list ✮
+title: To-do list
 tags:
   - webmastery
   - things-to-do

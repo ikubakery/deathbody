@@ -1,5 +1,5 @@
 ---
-title: Projects i want to do ✮
+title: Projects i want to do
 tags:
   - art
   - creativity

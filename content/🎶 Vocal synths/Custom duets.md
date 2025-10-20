@@ -1,5 +1,5 @@
 ---
-title: Custom duets ✮
+title: Custom duets
 tags:
   - vocal-synths
   - creativity

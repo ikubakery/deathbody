@@ -1,5 +1,5 @@
 ---
-title: Lusty*Kiss production voicebanks ✮
+title: Lusty*Kiss production voicebanks
 tags:
   - vocal-synths
   - archive

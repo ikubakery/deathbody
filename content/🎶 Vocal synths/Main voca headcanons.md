@@ -1,5 +1,5 @@
 ---
-title: Main voca headcanons ✮
+title: Main voca headcanons
 tags:
   - vocal-synths
   - creativity

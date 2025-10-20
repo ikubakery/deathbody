@@ -1,5 +1,5 @@
 ---
-title: OCs voiceclaims ✮
+title: OCs voiceclaims
 draft: false
 tags:
   - creativity

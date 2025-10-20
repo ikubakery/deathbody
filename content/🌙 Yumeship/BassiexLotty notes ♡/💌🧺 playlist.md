@@ -1,5 +1,5 @@
 ---
-title: 💌🧺 playlist ✮
+title: 💌🧺 playlist
 tags:
   - yume
   - creativity

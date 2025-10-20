@@ -1,5 +1,5 @@
 ---
-title: Reminders ✮
+title: Reminders
 tags:
   - irl
   - positivity

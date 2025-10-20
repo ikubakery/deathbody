@@ -1,5 +1,5 @@
 ---
-title: StudioS voicebanks ✮
+title: StudioS voicebanks
 tags:
   - vocal-synths
   - archive

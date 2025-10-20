@@ -1,5 +1,5 @@
 ---
-title: UTAU voicebanks ✮
+title: UTAU voicebanks
 tags:
   - vocal-synths
   - archive
